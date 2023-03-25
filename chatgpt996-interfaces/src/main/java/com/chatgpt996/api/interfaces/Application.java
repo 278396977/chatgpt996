@@ -1,4 +1,4 @@
-package com.chatgpt996.api;
+package com.chatgpt996.api.interfaces;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

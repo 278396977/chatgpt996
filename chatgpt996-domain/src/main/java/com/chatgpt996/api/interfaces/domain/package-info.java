@@ -2,4 +2,4 @@
  * @author author
  * @create 2023-03-25-13:27
  */
-package cn.chatgpt996.api.domain;
+package com.chatgpt996.api.interfaces.domain;

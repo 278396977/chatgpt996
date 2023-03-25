@@ -1,4 +1,4 @@
-package com.chatgpt996.api;
+package com.chatgpt996.api.interfaces;
 
 /**
  * @author author
